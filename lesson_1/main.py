@@ -37,4 +37,3 @@ False  # bool (Boolean)
 
 print('hello ' + 'world' + '2' + '2.5')
 print(('hello' + 'world ') * 3)
-
