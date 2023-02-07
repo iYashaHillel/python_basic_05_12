@@ -38,13 +38,13 @@ def summ_numbers(a, b):
     return d
 
 
-result = greetings(200_000)
-greetings(100_000)
-greetings(5_000)
-
-result_2 = summ_numbers(5_000, 5_000)
-
-print(result, result_2)
+# result = greetings(200_000)
+# greetings(100_000)
+# greetings(5_000)
+#
+# result_2 = summ_numbers(5_000, 5_000)
+#
+# print(result, result_2)
 
 
 # result = greetings('John', 30, 'hello')
